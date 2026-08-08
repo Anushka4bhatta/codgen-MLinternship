@@ -1,2 +1,8 @@
-# codgen-internship-week1
-Week 1 task for CodGen Machine Learning Virtual Internship - data exploration and preprocessing on the Iris dataset (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn).
+# CodGen ML Internship
+
+Weekly tasks for the CodGen Machine Learning Virtual Internship, 
+using the Iris dataset throughout.
+
+## Weeks completed
+- **Week 1** — Data exploration & preprocessing
+- **Week 2** — Supervised learning: classification (Logistic Regression, Decision Tree, Random Forest)
